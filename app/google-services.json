@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33544839818",
+    "firebase_url": "https://test1-cbc92.firebaseio.com",
+    "project_id": "test1-cbc92",
+    "storage_bucket": "test1-cbc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33544839818:android:376bc33411f8561bd38373",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33544839818-er8fd0s3famtrpuvet8fn5pscea0t7vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvD7GJkrHG88d3j92cZxi2hY9Ni_OXeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33544839818-er8fd0s3famtrpuvet8fn5pscea0t7vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
